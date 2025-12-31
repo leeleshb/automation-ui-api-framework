@@ -24,7 +24,7 @@ java -version
 mvn -version
 ________________________________________
 Clone the Repository
-git clone <repository-url>
+git clone <https://github.com/leeleshb/automation-ui-api-framework.git>
 cd project-root
 ________________________________________
 ▶️ Execution Command
