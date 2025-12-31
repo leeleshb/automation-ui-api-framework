@@ -1,0 +1,5 @@
+com\project\api\client\ReqresApiClient.class
+com\project\ui\tests\UI_EndToEnd_Test.class
+com\project\api\base\BaseTest.class
+com\project\api\tests\ReqresApiTest.class
+com\project\ui\base\BaseTest.class

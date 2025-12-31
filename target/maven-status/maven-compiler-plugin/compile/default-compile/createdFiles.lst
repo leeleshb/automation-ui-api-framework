@@ -1,0 +1,8 @@
+com\project\api\config\TestDataReader.class
+com\project\ui\pages\ProductsPage.class
+com\project\ui\pages\LoginPage.class
+com\project\ui\pages\CartPage.class
+com\project\ui\pages\CheckoutInfoPage.class
+com\project\ui\utils\Utilities.class
+com\project\api\config\ConfigReader.class
+com\project\ui\pages\CheckoutOverviewPage.class
